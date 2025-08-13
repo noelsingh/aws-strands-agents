@@ -23,7 +23,7 @@ This repository contains a hands-on tutorial that demonstrates how to use AWS St
 
 ## 🛠️ Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - AWS Account with Bedrock access
 - Basic understanding of AI/ML concepts
 
