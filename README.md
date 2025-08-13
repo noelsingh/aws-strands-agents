@@ -31,8 +31,8 @@ This repository contains a hands-on tutorial that demonstrates how to use AWS St
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aws-strands-agents-tutorial.git
-cd aws-strands-agents-tutorial
+git clone https://github.com/noelsingh/aws-strands-agents.git
+cd aws-strands-agents
 
 # Install required packages
 pip install -U strands-agents strands-agents-tools
